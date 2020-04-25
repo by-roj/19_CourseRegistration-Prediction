@@ -1,4 +1,4 @@
-# CourseRegistration-Analysis
+# CourseRegistration-Prediction
 
 개인의 스펙에 따른 해당 과목의 수강 신청 성공 여부 예측 및 웹 구현
 
@@ -20,8 +20,8 @@
 
 ### Data Used
 
-- Yonsei portal의 수강신청 정보
-  - https://portal.yonsei.ac.kr/main/
+- https://portal.yonsei.ac.kr/main/
+  - Yonsei portal의 수강신청 정보
 
 <br>
 
