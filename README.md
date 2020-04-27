@@ -1,4 +1,4 @@
-## CourseRegistration-Prediction
+# CourseRegistration-Prediction
 
 사용자가 Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공 여부를 예측하는 프로젝트입니다
 
