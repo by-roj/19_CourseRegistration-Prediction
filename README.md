@@ -31,16 +31,16 @@
 ### *Tech/Framework Used*
 
 - Crawling
-  - **Selenium**
-  - **BeautifulSoup**
+  - <u>**Selenium**</u>
+  - <u>**BeautifulSoup**</u>
 - Database
-  - **MySQL**
-  - **pyMySQL**
+  - <u>**MySQL**</u>
+  - <u>**pyMySQL**</u>
 - Model
   - XGBoost
   - GridSearchCV
 - Web
-  - **Flask**
+  - <u>**Flask**</u>
   - HTML
   - CSS
   - JavaScript
