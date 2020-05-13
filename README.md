@@ -31,7 +31,6 @@
 ### *Tech/Framework Used*
 
 - Crawling
-  - <u>**Selenium**</u>
   - <u>**BeautifulSoup**</u>
 - Database
   - <u>**MySQL**</u>
