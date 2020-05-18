@@ -31,15 +31,15 @@
 ### 🔑 *Tech/Framework Used*
 
 - Crawling
-  - <u>**BeautifulSoup**</u>
+  - BeautifulSoup ✔
 - Database
-  - <u>**MySQL**</u>
-  - <u>**pyMySQL**</u>
+  - MySQL ✔
+  - pyMySQL ✔
 - Model
   - XGBoost
   - GridSearchCV
 - Web
-  - <u>**Flask**</u>
+  - Flask ✔
   - HTML
   - CSS
   - JavaScript
