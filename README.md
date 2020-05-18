@@ -4,7 +4,7 @@
 
 <br>
 
-### *Goal*
+### 🚩 *Goal*
 
 - 수강 신청 데이터가 적재된 DB server와 연동된 Web 상에서 직접 강의를 선택하고 데이터 입력
 
@@ -12,7 +12,7 @@
 
   <br>
   
-  #### *Step*
+  #### 💡 *Step*
   
   1. 마일리지 우선순위 정보에 따른 예측 모델링 구현
   
@@ -21,14 +21,14 @@
 
 <br>
 
-### *Data Used*
+### 📁 *Data Used*
 
 - https://portal.yonsei.ac.kr/main/
   - Yonsei portal의 수강신청 정보
 
 <br>
 
-### *Tech/Framework Used*
+### 🔑 *Tech/Framework Used*
 
 - Crawling
   - <u>**BeautifulSoup**</u>
