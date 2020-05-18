@@ -30,7 +30,7 @@
 
 ### 🔑 *Tech/Framework Used*
 
-참여한 과정 : ✔
+​			(참여한 과정 : ✔)
 
 - Crawling
   - BeautifulSoup ✔
