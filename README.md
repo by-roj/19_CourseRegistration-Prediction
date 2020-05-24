@@ -42,6 +42,6 @@
   - GridSearchCV
 - Web
   - Flask ✔
-  - HTML
+  - HTML ✔
   - CSS
   - JavaScript
