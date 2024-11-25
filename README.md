@@ -29,7 +29,7 @@ Prediction of the course application results and implementation on the web
 
 ### ◻ *Tech/Framework Used*
 
-​(Participated : ✔)
+​(Participated: ✔)
 
 - Crawling
   - BeautifulSoup ✔
