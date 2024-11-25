@@ -1,36 +1,35 @@
-# CourseRegistration-Prediction
+# CourseRegistration Prediction
 
-사용자가 Web 상에서 입력한 데이터로 해당 과목의 수강 신청 성공 여부를 예측하는 프로젝트입니다
+Prediction of the course application results and implementation on the web
+> Providing guidelines for registering classes using appropriate mileage through the web
 
 <br>
 
-### 🚩 *Goal*
+### ◻ *Goal*
 
-- 수강 신청 데이터가 적재된 DB server와 연동된 Web 상에서 직접 강의를 선택하고 데이터 입력
-
-  → 데이터에 따라 예측된 수강 신청 성공 여부가 출력되도록 구현
+- Selecting a lecture and enter data directly on the web linked to the DB server loaded with course registration data
+  → Outputting the predicted result about success of course enrollment based on input data
 
   <br>
   
-  #### 💡 *Step*
+  #### *Step*
   
-  1. 마일리지 우선순위 정보에 따른 예측 모델링 구현
-  
-   	2. pymysql과 flask를 통해 DB server와 연동된 Web 구현
-   	3. 사용자가 Web 상에 입력하는 정보에 따른 수강 신청 성공 여부 출력
+  1. Implementing predictive modeling based on mileage priority information
+  2. Implementing on the web linked with DB server via pymysql and flask
+  3. Outputting the predicted result about success of course enrollment based on input data entered by the user on the web
 
 <br>
 
-### 📁 *Data Used*
+### ◻ *Data Used*
 
 - https://portal.yonsei.ac.kr/main/
-  - Yonsei portal의 수강신청 정보
+  - Course registration information in Yonsei portal
 
 <br>
 
-### 🔑 *Tech/Framework Used*
+### ◻ *Tech/Framework Used*
 
-​			(참여한 과정 : ✔)
+​(Participated : ✔)
 
 - Crawling
   - BeautifulSoup ✔
