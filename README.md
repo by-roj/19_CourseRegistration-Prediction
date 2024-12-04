@@ -7,7 +7,7 @@ Prediction of the course application results and implementation on the web
 
 ### ◻ *Goal*
 
-- Selecting a lecture and enter data directly on the web linked to the DB server loaded with course registration data
+- Selecting a lecture and enter data directly on the web linked to the DB server loaded with course registration data <br>
   → Outputting the predicted result about success of course enrollment based on input data
 
   <br>
